@@ -176,3 +176,23 @@ Base. Exponent. Reduce. Compute. Verify.
 Same input. Same output.
 No recursion. No borrowed thesis.
 ```
+
+
+---
+
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@misc{snapkittywest2026sovereigncompute,
+  title = {SNAPKITTYWEST: Sovereign Compute Architecture with Linear Types, WORM Seals, and Goldilocks Field Arithmetic},
+  author = {SnapKitty Collective},
+  year = {2026},
+  doi = {10.5281/zenodo.21132094},
+  url = {https://doi.org/10.5281/zenodo.21132094}
+}
+```
+
+**Paper:** https://doi.org/10.5281/zenodo.21132094
+**ORCID:** https://orcid.org/0009-0006-1916-5245
