@@ -1,0 +1,22 @@
+# Default owners for everything in the repo
+* @SNAPKITTYWEST
+
+# Critical infrastructure requires explicit approval
+*.rs @SNAPKITTYWEST
+*.lean @SNAPKITTYWEST
+*.c @SNAPKITTYWEST
+*.cpp @SNAPKITTYWEST
+*.cs @SNAPKITTYWEST
+
+# Documentation and governance
+*.md @SNAPKITTYWEST
+*.pdf @SNAPKITTYWEST
+
+# CI/CD and configuration
+.github/ @SNAPKITTYWEST
+Cargo.toml @SNAPKITTYWEST
+Cargo.lock @SNAPKITTYWEST
+
+# License files
+LICENSE* @SNAPKITTYWEST
+SOVEREIGN_SOURCE_LICENSE* @SNAPKITTYWEST
